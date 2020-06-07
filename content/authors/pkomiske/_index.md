@@ -22,19 +22,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a theoretical physicist working at the intersection of quantum field theory, collider physics, and machine learning.
 
-# interests:
-#   - Particle Physics:
-#     - Quantum Field Theory
-#     - Collider Physics
-#     - Jets and QCD
-#   - Data Science:
-#     - Machine Learning
-#     - Optimal Transport
-#   - "[Algorithms/Software](#projects)":
 interests:
-  - Particle Physics
-  - Data Science
-  - "[Algorithms/Software](#projects)"
+  - Particle Physics:
+    - Quantum Field Theory
+    - Collider Physics
+    - Jets and QCD
+  - Data Science:
+    - Machine Learning
+    - Optimal Transport
+  - "[Algorithms/Software](#projects)":
+# interests:
+#   - Particle Physics
+#   - Data Science
+#   - "[Algorithms/Software](#projects)"
 
 education:
   courses:
