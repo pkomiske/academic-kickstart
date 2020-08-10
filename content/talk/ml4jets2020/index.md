@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "OmniFold: Simultaneously Unfolding All Observables"
-event: "ML4Jets 2020<br>New York University"
+event: "ML4Jets 2020"
 event_url: "https://indico.cern.ch/event/809820/"
-location: "New York, NY"
+location: "NYU - New York, NY"
 summary:
 abstract:
 

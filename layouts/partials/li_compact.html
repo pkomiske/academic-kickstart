@@ -1,6 +1,7 @@
 <!-- 
 PTK changes:
 - set "show_authors_only" to false for publication
+- added event name to talk (with white text)
 -->
 
 {{ $item := . }}
@@ -52,6 +53,13 @@ PTK changes:
 
       {{ if eq $item.Type "talk" }}
       <div>
+        {{ if .Params.event }}
+          <div class="row">
+            <div class="col-12 col-md-9 white-text">
+              {{ .Params.event | markdownify }}
+            </div>
+          </div>
+        {{ end }}
         <span>
           {{ partial "functions/get_event_dates" $item }}
         </span>

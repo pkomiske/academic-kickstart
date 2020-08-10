@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Point Cloud Strategies for Boosted Tops"
-event: "Boosted Objects for New Physics Searches<br>Fermilab"
+event: "Boosted Objects for New Physics Searches"
 event_url: "https://indico.cern.ch/event/750705/"
-location: "Batavia, IL"
+location: "Fermilab - Batavia, IL"
 summary:
 abstract:
 
