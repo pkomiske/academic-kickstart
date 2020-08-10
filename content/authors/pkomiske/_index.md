@@ -31,10 +31,6 @@ interests:
     - Machine Learning
     - Optimal Transport
   - "[Algorithms/Software](#projects)":
-# interests:
-#   - Particle Physics
-#   - Data Science
-#   - "[Algorithms/Software](#projects)"
 
 education:
   courses:

@@ -3,7 +3,8 @@ title: "The Hidden Geometry of Particle Collisions"
 date: 2020-04-08
 authors: ["Patrick T. Komiske", "Eric M. Metodiev", "Jesse Thaler"]
 publication_types: ["2"]
-publication: " "
+publication: "*Journal of High Energy Physics*, **07** (2020) 006"
+doi: "10.1007/JHEP07(2020)006"
 
 abstract: "We establish that many fundamental concepts and techniques in quantum field theory and collider physics can be naturally understood and unified through a simple new geometric language. The idea is to equip the space of collider events with a metric, from which other geometric objects can be rigorously defined. Our analysis is based on the energy mover's distance, which quantifies the \"work\" required to rearrange one event into another. This metric, which operates purely at the level of observable energy flow information, allows for a clarified definition of infrared and collinear safety and related concepts. A number of well-known collider observables can be exactly cast as the minimum distance between an event and various manifolds in this space. Jet definitions, such as exclusive cone and sequential recombination algorithms, can be directly derived by finding the closest few-particle approximation to the event. Several area- and constituent-based pileup mitigation strategies are naturally expressed in this formalism as well. Finally, we lift our reasoning to develop a precise distance between theories, which are treated as collections of events weighted by cross sections. In all of these various cases, a better understanding of existing methods in our geometric language suggests interesting new ideas and generalizations."
 
