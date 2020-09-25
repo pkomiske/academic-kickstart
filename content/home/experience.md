@@ -28,9 +28,10 @@ date_format = "Jan 2006"
   description = """
   Advisor: [Jesse Thaler](http://jthaler.net)
 
-  - Developing and applying novel machine learning strategies on high-energy particle physics data
-  - Processing TBs of open collider data into usable datasets with a simple, custom interface
-  - Large Hadron Collider phenomena, jet physics, new observables and methods, beyond the Standard Model physics
+  - Machine learning neural network architecture/algorithm development for high-energy particle physics datasets
+  - Software library development and creation of easy-to-use public datasets, including reprocessing TBs of CMS Open Data
+  - Studied Large Hadron Collider phenomena, jet physics, quantum field theory, quantum chromodynamics
+
   """
 
 [[experience]]

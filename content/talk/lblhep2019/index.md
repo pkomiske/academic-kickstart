@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Point Cloud Strategies for Boosted Objects"
-event: "ML-HEP Meetup"
-event_url: ""
+event: "ML-HEP-LBL Meetup"
+event_url: "https://indico.physics.lbl.gov/event/885/"
 location: "Berkeley, CA"
 summary:
 abstract:

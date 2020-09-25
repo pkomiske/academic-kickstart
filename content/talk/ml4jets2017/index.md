@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Linear Jet Tagging with the Energy Flow Basis"
-event: "Machine Learning for Jet Physics Workshop 2017<br>LBL National Laboratory"
+event: "Machine Learning for Jet Physics 2017<br>Lawrence Berkeley National Laboratory"
 event_url: "https://indico.physics.lbl.gov/indico/event/546/"
 location: "Berkeley, CA"
 summary:

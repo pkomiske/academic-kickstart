@@ -6,7 +6,7 @@ summary: "The MIT Open Data project utilizes [public collider data](http://opend
 authors: []
 tags: []
 categories: []
-date: 2020-04-12T23:38:16-04:00
+date: 2020-06-12T23:38:16-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/pkomiske/MOD"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Energy Flow Networks: Deep Sets for Particle Jets"
-event: "Machine Learning for Jet Physics Workshop 2018"
+event: "Machine Learning for Jet Physics 2018"
 event_url: "https://indico.cern.ch/event/745718/"
 location: "Fermilab - Batavia, IL"
 summary:

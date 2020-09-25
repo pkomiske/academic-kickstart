@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "EnergyFlow"
-summary: "Python package for computing Energy Flow Polynomials, instantiating Energy/Particle Flow Networks, computing the Energy Mover's Distance between events, and working with particle kinematics in python."
+title: "EnergyEnergyCorrelators"
+summary: "C++ library with a Python wrapper for computing $N$-point energy-energy correlators and related high-dimensional structures. Utilizes the BOOST histogram library for simple, efficient, and flexible binning of distributions."
 authors: []
 tags: []
 categories: []
-date: 2020-09-12T23:38:16-04:00
+date: 2020-08-12T23:38:16-04:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://energyflow.network"
+external_link:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,16 +22,12 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Docs
-  url: https://energyflow.network
-  icon_pack: fas
-  icon: file-alt
 - name: GitHub
-  url: https://github.com/pkomiske/EnergyFlow
+  url: https://github.com/pkomiske/EnergyEnergyCorrelators
   icon_pack: fab
   icon: github
 - name: PyPI
-  url: https://pypi.org/project/EnergyFlow/
+  url: https://pypi.org/project/eec/
   icon_pack: fab
   icon: python
 
