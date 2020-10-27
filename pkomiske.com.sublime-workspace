@@ -7,33 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "content/talk/ml4jets2017/index.md",
-			"settings":
-			{
-				"buffer_size": 1305,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/talk/ml4jets2018/index.md",
-			"settings":
-			{
-				"buffer_size": 1266,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "content/talk/lblhep2019/index.md",
-			"settings":
-			{
-				"buffer_size": 1234,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -84,35 +57,31 @@
 	"expanded_folders":
 	[
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.github",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/assets",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/assets/scss",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors/pkomiske",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/topcompare",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/chicagoseminar2019",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/fermilabboostedobjs",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/genoa2020",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/lblhep2019",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2017",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2018",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2020",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/partials",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/partials/functions",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/partials/jsonld",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/partials/widgets",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/section",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/talk"
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/static",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/static/admin",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/static/files"
 	],
 	"file_history":
 	[
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/lblhep2019/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2018/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/energyflow/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/mod/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/wasserstein/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/li_compact.html",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2017/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/eecs/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/eventgen/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/experience.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/assets/scss/custom.scss",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/_index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2020/index.md",
@@ -121,9 +90,7 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/hiddengeometry/cite.bib",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/hiddengeometry/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/scfw2020/index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/li_compact.html",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/fermilabboostedobjs/index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2018/index.md",
 		"/Users/pkomiske/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5D940E7D-3CC7-4577-AEE8-D52B3E7D5DF0/jesse.txt",
 		"/Users/pkomiske/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E2BFC6B0-95AA-4408-B2DD-E1B7F1A58B36/komiske.txt",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/cmsodemd/index.md",
@@ -140,7 +107,6 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/about.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/accomplishments.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/contact.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/experience.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/featured.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/posts.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/projects.md",
@@ -165,7 +131,6 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/themes/academic/layouts/section/publication.html",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/slider.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/pumml/index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/mod/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/efns/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/efps/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/cutmultcorr/index.md",
@@ -173,7 +138,6 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/post/example/index.md",
 		"/Users/pkomiske/Dropbox (MIT)/Research/EnergyFlow/mkdocs/sources/docs/emd.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/topcompare/index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/energyflow/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/dlincolor/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/learntoclassify/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/operationalqgdef/index.md",
@@ -185,14 +149,12 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/chicagoseminar2019/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/PhD Thesis/main.bbl",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ctpjournal2017/index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2017/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/mitjetworkshop/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/harvardlunchtalk2018/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/harvardlunchtalk2017/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/cernseminar2019/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/dlnshamburg/index.md",
 		"/Users/pkomiske/Downloads/cdaq_physics_Run2012_7e33_v3.1_HLT_V2.py",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/lblhep2019/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/umdseminar2019/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/public/index.html",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/public/publication/page/1/index.html",
@@ -237,10 +199,7 @@
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/phaseee.f",
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/eerad3.input",
 		"/Users/pkomiske/Dropbox (MIT)/Papers/OmniFold/PRL/refereereport.txt",
-		"/Users/pkomiske/Dropbox (Personal)/Environment/.slate",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CMSOpenData/MOD/CMS2012BCDiMuons/producer/src/PFCandidateProducer.cc",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CMSOpenData/MOD/CMS2012BCDiMuons/analyzer/mod_muon_io.py",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CMSOpenData/MOD/CMS2012BCDiMuons/analyzer/pickle_event_data.py"
+		"/Users/pkomiske/Dropbox (Personal)/Environment/.slate"
 	],
 	"find":
 	{
@@ -258,6 +217,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sort",
 			"event",
 			"video8"
 		],
@@ -277,93 +237,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "content/talk/ml4jets2017/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								192,
-								192
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/talk/ml4jets2018/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1266,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "content/talk/lblhep2019/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
