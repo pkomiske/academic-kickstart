@@ -3,6 +3,7 @@
 
 title: "Probing QCD with Energy Flow Observables"
 event: CEPC Workshop
+event_url: https://indico.ihep.ac.cn/event/11444/
 location: Shanghai, China (virtual)
 summary:
 abstract:

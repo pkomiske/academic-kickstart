@@ -60,10 +60,16 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.github",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/assets",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/assets/scss",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors/pkomiske",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/boost2019",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/cepc2020",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/static",
@@ -72,6 +78,10 @@
 	],
 	"file_history":
 	[
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/params.toml",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/publications.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/cepc2020/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.gitmodules",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/lblhep2019/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/ml4jets2018/index.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/project/energyflow/index.md",
@@ -100,7 +110,6 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.gitignore",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/config.toml",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/menus.toml",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/params.toml",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/widgets/about.html",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/widgets/experience.html",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/emd/index.md",
@@ -110,7 +119,6 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/featured.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/posts.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/projects.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/publications.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/skills.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/tags.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/li_list.html",
@@ -197,13 +205,11 @@
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/eerad3.f",
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/brem.f",
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/phaseee.f",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/eerad3.input",
-		"/Users/pkomiske/Dropbox (MIT)/Papers/OmniFold/PRL/refereereport.txt",
-		"/Users/pkomiske/Dropbox (Personal)/Environment/.slate"
+		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/eerad3.input"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -217,6 +223,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dark",
 			"sort",
 			"event",
 			"video8"
@@ -305,7 +312,7 @@
 		[
 			[
 				"",
-				"~/Dropbox (MIT)/Research/EnergyFlow/EnergyFlow.sublime-project"
+				"~/Dropbox (MIT)/Research/EEC-OD/EEC.sublime-project"
 			],
 			[
 				"mvp",
