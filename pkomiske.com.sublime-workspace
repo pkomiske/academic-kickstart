@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/pkomiske/.gitignore",
+			"settings":
+			{
+				"buffer_size": 49,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/_default/menus.toml",
+			"settings":
+			{
+				"buffer_size": 855,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -66,10 +84,9 @@
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/authors/pkomiske",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/boost2019",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/cepc2020",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/bsmpandemic2020",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/scfw2020",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/static",
@@ -78,6 +95,9 @@
 	],
 	"file_history":
 	[
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/bsmpandemic2020/index.md",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.gitignore",
+		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/public/.gitignore",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/params.toml",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/publications.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/talk/cepc2020/index.md",
@@ -107,7 +127,6 @@
 		"/Users/pkomiske/Dropbox (MIT)/Papers/Referee Reports/PRD/DM12417/Response2.txt",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/home/talks.md",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/content/publication/_index.md",
-		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/.gitignore",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/config.toml",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/config/_default/menus.toml",
 		"/Users/pkomiske/Dropbox (Personal)/Web/pkomiske.com/layouts/partials/widgets/about.html",
@@ -203,13 +222,11 @@
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/filelist.txt",
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/Makefile",
 		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/eerad3.f",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/brem.f",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/phaseee.f",
-		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/eerad3.input"
+		"/Users/pkomiske/Dropbox (MIT)/Research/CorrelationDimension/eerad3-1.0/src/brem.f"
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -244,8 +261,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/pkomiske/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/_default/menus.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
